@@ -1,6 +1,7 @@
 
 *{
     margin: 0;
+    box-sizing: border-box;
     
 }
 header{
@@ -36,6 +37,10 @@ h1{
 
 .evidenzia{
     background-color: yellow;
+}
+
+ul{
+    padding-left: 20px;
 }
 
 thead{
