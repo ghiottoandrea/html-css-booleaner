@@ -1,4 +1,8 @@
 
+*{
+    margin: 0;
+    
+}
 header{
     background-repeat: repeat;
     background-color:#4ea0ff;
@@ -32,4 +36,18 @@ h1{
 
 .evidenzia{
     background-color: yellow;
+}
+
+thead{
+    color: white;
+    background-color: #20a9e5;
+}
+
+.sfondo_azzurro{
+    background-color:#b1e5f2 ;
+
+}
+
+h4{
+    color: #808080;
 }
