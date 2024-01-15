@@ -1,11 +1,18 @@
-{
-    
-}
 
+header{
+    background-repeat: repeat;
+    background-color:#4ea0ff;
+    background-image:url(./img/pattern.png);
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+
+}
 #Logo-booleaner{
     height: 40px;
-    background-color:#4ea0ff;
-    background-image:url(./img/pattern.png)
+    
    
 }
 
