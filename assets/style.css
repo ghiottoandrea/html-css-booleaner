@@ -3,13 +3,16 @@ header{
     background-repeat: repeat;
     background-color:#4ea0ff;
     background-image:url(./img/pattern.png);
-    margin:0;
-    padding: 0;
-    box-sizing: border-box;
-    
-    
-
+    background-size: contain;
+    background-repeat: repeat-x;
 }
+
+h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
 #Logo-booleaner{
     height: 40px;
     
@@ -25,4 +28,8 @@ header{
 
 #data{
     font-size: x-small;
+}
+
+.evidenzia{
+    background-color: yellow;
 }
